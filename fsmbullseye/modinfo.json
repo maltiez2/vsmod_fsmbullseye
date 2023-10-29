@@ -1,0 +1,15 @@
+{
+    "type": "code",
+    "modid": "fsmbullseye",
+    "name": "FSM extension: Bullseye",
+    "authors": [
+        "Maltiez"
+    ],
+    "description": "Compatibility extension for FSM lib",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.18.8",
+        "fsmlib": "0.1.9",
+        "bullseye": "2.5.0"
+    }
+}
